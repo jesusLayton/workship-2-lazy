@@ -21,6 +21,8 @@ const createImageNode = () => {
 
     container.appendChild(imagen);
 
+    
+
     return container;
 
 };
