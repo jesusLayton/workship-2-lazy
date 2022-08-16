@@ -23,4 +23,5 @@ const observer = new IntersectionObserver((entries)=>{
 
 export const registrarImagen = (imagen) => {
     observer.observe(imagen);
+    
 }
